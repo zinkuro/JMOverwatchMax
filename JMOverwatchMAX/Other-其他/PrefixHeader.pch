@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  JiaLeCommunity
+//
+//  Created by Jin on 16/6/12.
+//  Copyright © 2016年 Jin. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "JMBasicViewController.h"
+#import "UIView+JMExtension.h"
+#import "UIColor+JMColor.h"
+#import <UIImageView+AFNetworking.h>
+#import <Masonry.h>
+#import <AFHTTPSessionManager.h>
+#import <YYModel.h>
+#import <MJRefresh.h>
+#import <SVProgressHUD.h>
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
